@@ -1,0 +1,43 @@
+img {width: 400px;}
+
+
+header {
+    background-color: #F1F1F1;
+    text-align: left;
+    padding: 20px;
+  }
+
+a {
+  color: rgb(224, 61, 61);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+
+body {
+ font-family: 'Montserrat', sans-serif;
+background-color: rgb(192, 219, 242);
+}
+
+
+.AboutMe {
+    border: 10px solid rgb(0, 174, 255);
+    padding: 15px;
+    border-image: url(border.png) 50 round;
+  }
+
+.skiing{
+    border: 5px solid black;
+    padding: 2%;
+    border-radius: 5%;
+}
+
+.img1{
+    border: 7px solid rgb(77, 101, 106);
+    border-width: 2ch;
+    padding: 2%;
+}
